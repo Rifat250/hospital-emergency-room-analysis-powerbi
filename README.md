@@ -91,7 +91,7 @@ hospital-emergency-room-analysis-powerbi/
 
 For the complete project methodology, data preparation, DAX calculations, analysis, findings, and recommendations:
 
-[View Project Documentation](Documentation/Hospital%20Emergency%20Room%20Analysis%20Documentation.pdf)
+[View Project Documentation](https://github.com/Rifat250/hospital-emergency-room-analysis-powerbi/blob/main/Documentation/HOSPITAL_EMERGENCY_ROOM_ANALYSIS_DASHBOARD.pdf)
 👤 Author
 
 Maksud-Ur-Rashid

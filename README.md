@@ -86,3 +86,9 @@ hospital-emergency-room-analysis-powerbi/
 │   └── Hospital Emergency Room Analysis Documentation.pdf
 │
 └── Hospital Emergency Room Analysis.pbix
+
+👤 Author
+
+Maksud-Ur-Rashid
+
+Data Analyst | Power BI | Excel | SQL | Python

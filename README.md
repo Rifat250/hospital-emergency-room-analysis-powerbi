@@ -79,13 +79,13 @@ The findings suggest opportunities to:
 hospital-emergency-room-analysis-powerbi/
 │
 ├── Screenshots/
-│   ├── dashboard-overview.png
-│   └── patient-details.png
+│   ├── DASHBOARD.jpg
+│   └── PATIENT_DETAILS.jpg
 │
 ├── Documentation/
-│   └── Hospital Emergency Room Analysis Documentation.pdf
+│   └── HOSPITAL_ROOM_ANALYSIS_DASHBOARD.pdf
 │
-└── Hospital Emergency Room Analysis.pbix
+└── Hospital ER Analysis Dashboard.pbix
 
 👤 Author
 

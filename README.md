@@ -9,7 +9,7 @@
 
 ### 🔗 Live Power BI Dashboard
 
-[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/5826ffaa-d571-4429-8d55-34b00e8fc0e0/1618224e8093eea3ed2e?experience=power-bi)
+[View Interactive Dashboard](https://app.powerbi.com/links/PjLQDGpTIX?ctid=3cd07988-5263-4064-ad55-e956ab3dd117&pbi_source=linkShare)
 
 ---
 
